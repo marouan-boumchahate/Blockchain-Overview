@@ -4,21 +4,17 @@
 
 I’m still at the beginning of my journey with blockchain, and I know how difficult it can be to understand — it took me a lot of time just to grasp the basics. That’s why I decided to share a simple overview using less technical words, so anyone curious about the concept can follow along more easily.
 
----
 
 
 ## 📘 Definition
 
----
 
 Blockchain is a type of digital record book 📒 that is shared across many computers 💻🌍. Once something is written in it, it can't be changed. This helps make everything **clear**, **safe**, and **trustworthy** — and you don’t need a middleman to check or approve anything.
 
----
 
 
 ## ✨ Features
 
----
 ### 🌐 Decentralization
 
 There’s no single person, company, or government that controls the system. Instead, the control is shared by many people (called _nodes_) around the world.
@@ -46,12 +42,10 @@ Blockchain uses advanced math (called cryptography) to keep the data safe. It ma
 
 🔐 It’s like locking each page of your notebook with a digital fingerprint. If someone tries to change a page, everyone will know because the fingerprint will no longer match.
 
----
 
 
 ## ⚙️ How Blockchain Works
 
----
 ### ✅ Step 1: A Transaction Happens
 
 Someone sends money, updates data, or makes an agreement — this is called a _transaction_.
@@ -76,24 +70,20 @@ This new block is added to the end of the _chain_ of previous blocks — creatin
 
 Every computer in the network gets the latest copy of the blockchain. No one can change past blocks — they’re locked forever.
 
----
 
 
 ## 🌍 Real-World Applications
 
----
 - 💰 **Cryptocurrency** (e.g., Bitcoin, Ethereum)
     
 - 🏥 **Healthcare** – Secure patient records
     
 - 📄 **Smart Contracts** – Self-executing agreements
     
----
 
 
 ## 🔐 Privacy in a Public System
 
----
 And for anyone wondering, “If everything is shared, what if I don’t want others to see my private information?” — great question. Blockchain uses two keys: a **public key** that everyone can see, and a **private key** that only you control. This system keeps your identity and sensitive info safe, even in a transparent network.
 
 🔐 **Example:**
