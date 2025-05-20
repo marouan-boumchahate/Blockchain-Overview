@@ -98,6 +98,5 @@ Let’s say **Marouan** wants to send money to **Youness** using a blockchain sy
 
 ✅ **So even though the transaction is visible to everyone, no one knows it was Youness — unless he tells them.** His identity is protected, but the system still stays transparent and secure.
 
----
 
 ⛓️ **The future is being built block by block.**
