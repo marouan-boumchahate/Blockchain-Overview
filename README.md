@@ -17,28 +17,28 @@ Blockchain is a type of digital record book 📒 that is shared across many comp
 
 There’s no single person, company, or government that controls the system. Instead, the control is shared by many people (called _nodes_) around the world.
 
-📝 Think of Google Docs. When you share a doc with friends, all of you can see it and edit it — there’s no one "boss" who owns the file. Blockchain works like that, but with rules that prevent cheating.
+Think of Google Docs. When you share a doc with friends, all of you can see it and edit it — there’s no one "boss" who owns the file. Blockchain works like that, but with rules that prevent cheating.
 
 
 ### 🔎 Transparency
 
 All transactions are visible to everyone in the network. So, no one can hide or secretly change something without others noticing.
 
-💬 Imagine a group chat where every message is saved and visible to everyone forever. If someone sends money, all members see it — not the details like your name, but the action is clear and public.
+Imagine a group chat where every message is saved and visible to everyone forever. If someone sends money, all members see it — not the details like your name, but the action is clear and public.
 
 
 ### 🛑 Immutability
 
 After a transaction is added to the blockchain, it cannot be changed or deleted. This helps prevent fraud or cheating.
 
-🖊️ Think of writing with a permanent marker in a shared notebook. Once you write something down, it’s there forever — nobody can erase or rewrite it.
+Think of writing with a permanent marker in a shared notebook. Once you write something down, it’s there forever — nobody can erase or rewrite it.
 
 
 ### 🛡️ Security
 
 Blockchain uses advanced math (called cryptography) to keep the data safe. It makes it nearly impossible for hackers to break in or fake information.
 
-🔐 It’s like locking each page of your notebook with a digital fingerprint. If someone tries to change a page, everyone will know because the fingerprint will no longer match.
+It’s like locking each page of your notebook with a digital fingerprint. If someone tries to change a page, everyone will know because the fingerprint will no longer match.
 
 
 
@@ -48,13 +48,13 @@ Blockchain uses advanced math (called cryptography) to keep the data safe. It ma
 
 Someone sends money, updates data, or makes an agreement — this is called a _transaction_.
 
-💸 _Example:_ Marouan sends 200 DH to Youness.
+_Example:_ Marouan sends 200 DH to Youness.
 
 ### ✅ Step 2: The Transaction Is Shared With the Network
 
 The transaction is sent to a group of computers around the world (called _nodes_). These computers all check if it’s valid.
 
-💻 _Example:_ The computers check if Marouan really has 200 DH to send it or not
+_Example:_ The computers check if Marouan really has 200 DH to send it or not
 
 ### ✅ Step 3: The Transaction Is Approved and Added to a Block
 
@@ -84,7 +84,7 @@ Every computer in the network gets the latest copy of the blockchain. No one can
 
 And for anyone wondering, “If everything is shared, what if I don’t want others to see my private information?” — great question. Blockchain uses two keys: a **public key** that everyone can see, and a **private key** that only you control. This system keeps your identity and sensitive info safe, even in a transparent network.
 
-🔐 **Example:**
+**Example:**
 
 Let’s say **Marouan** wants to send money to **Youness** using a blockchain system.
 
