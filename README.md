@@ -4,7 +4,7 @@
 
 I’m still at the beginning of my journey with blockchain, and I know how difficult it can be to understand — it took me a lot of time just to grasp the basics. That’s why I decided to share a simple overview using less technical words, so anyone curious about the concept can follow along more easily.
 
-br
+[^2]
 
 ## 📘 Definition
 
